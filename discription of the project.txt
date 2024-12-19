@@ -1,0 +1,100 @@
+discription of the project
+Nowadays computers are used on huge scales worldwide. Use these devices may be in
+the form of Desktop, Laptop and Mobile phones. As these all are electronic devices and
+runs on electric power and batteries, it causes harm to an environment directly as well
+as indirectly. In all of this Major problem is cause by the Electronic waste specially in IT
+sector.
+Electronic waste, or e-waste, refers to all items of electrical and electronic equipment
+(EEE) and its parts that have been discarded by its owner as waste without the intent of
+re-use (Step Initiative 2014). E-waste is also referred to as WEEE (Waste Electrical and
+Electronic Equipment), electronic waste or e-scrap in different regions and under
+different circumstances in the world.
+Electronic waste (e-waste) in the IT sector can include a wide range of electronic
+
+equipment, such as:
+ Computers: Desktops, laptops,
+servers, and Keyboards and mouse
+Speakers and headphones Webcams
+and microphones External hard drives
+and USB drives Monitors and projectors
+Scanners and printers Graphics tablets
+and pens Docking stations and USB
+hubs CD/DVD drives and media players
+Network interface cards and adapters.
+
+Reuse of Keyboard
+
+5
+
+ Communication equipment: Phones, routers, modems, and switches.
+ Office equipment: Printers, copiers, and fax machines.
+ Medical equipment: Imaging machines, monitors, and diagnostic equipment.
+ Industrial equipment: Control systems, sensors, and other electronic
+components.
+ Batteries: Rechargeable batteries used in laptops, phones, and other electronic
+devices.
+ Cables and cords: Various cables and cords that connect electronic devices.
+
+In India electronic waste is emerging as a serious public health and environmental issue
+in India. India is the "Third largest electronic waste producer in the world";
+approximately 2 million tons of e-waste are generated annually and an undisclosed
+amount of e-waste is imported from other countries around the world.
+Annually, computer devices account for nearly 70% of e-waste, 12% comes from the
+telecom sector, 8% from
+medical equipment and 7%
+from electric equipment. The
+government, public sector
+companies, and private sector
+companies generate nearly
+75% of electronic waste, with
+the contribution of individual
+household being only 16%.
+
+E-waste is a popular, informal
+name for electronic products
+nearing the end of their "useful life." Computers, televisions, VCRs, stereos, copiers,
+and fax machines are common electronic products. Many of these products can be
+reused, refurbished, or recycled. There is an upgradation done to this E-waste garbage
+list which includes gadgets like smartphone, tablets, laptops, video game consoles,
+
+Reuse of Keyboard
+
+6
+cameras and many more. India had 1.012 billion active mobile connections in January
+2018. Every year the number is growing exponentially.
+According to ASSOCHAM, an industrial body in India the, Compound Annual Growth
+Rate of electronic waste is 30%. With changing consumer behaviour and rapid
+economic growth, ASSOCHAM estimates that India will generate 5.2 million tonnes of
+e-waste by 2020.
+
+While e-waste recycling is a source of income for many people in India, it also posesnumerous health and environmental risks. More than 95% of India's e-waste is illegally
+recycled by informal waste pickers called kabadiwalas or raddiwalas which is “Junk
+Dealer” and “Scrap Dealer ". These workers operate independently, outside of any
+formal organization which makes enforcing e-waste regulations difficult-to-impossible.
+Recyclers often rely on rudimentary recycling techniques that can release toxic
+pollutants into the surrounding area. The release of toxic pollutants associated with
+crude e-waste recycling can have far reaching, irreversible consequences.
+Along with mentioned issues above there are many other issues related with these
+electronic equipment's. Green computing
+addresses these issues with the words
+"Reduce, Reuse, Recycle".
+Reduce: We should limit the number of
+purchases that we make in the first
+place. So, for example, we might limit our
+household to a single computer.
+Reuse: We should reuse items as much as possible before replacing them. For
+example, it generally makes more environmental sense to update our computer rather
+than get rid of it and buy a new one. However, if we replace our computer, we should
+ensure that it, or its components, is reused. Many charitable organizations welcome
+donations of second-hand computers.
+
+Reuse of Keyboard
+
+7
+Recycle: We should ensure that items or their components are put to some new
+purpose as much as possible. If our computer is not fit for reuse as is, we can donate it
+to one of several organizations which will refurbish it or recycle its components.
+The Project is made by me is related to Reuse of Electronic Equipment (Keyboard).
+The keyboard being used in this project is part of E-waste due to broken buttons of the
+keyboard but the inside of the keyboard isuseful to be reused into a game controller (As
+a Gamepad) .The Purpose of this project is to create awareness about the reusability of

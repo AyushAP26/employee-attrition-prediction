@@ -1,0 +1,39 @@
+Khalid Raza et al.,2012 [9] In their research work they discuss about The
+manufacturing of electronic components and computers consumes energy, raw
+materials, chemicals, and generates hazardous waste, leading to increased
+carbon dioxide emissions. Human activities are altering the carbon cycle by adding
+more CO2 to the atmosphere, leading to global warming and climate change. The
+imbalance in the composition of air can cause disastrous consequences like rising
+sea levels, droughts, floods, and extreme weather conditions. Information and
+communication technology (ICT) is contributing to environmental problems such
+as global warming and climate change, and it is predicted to increase. Green
+computing has emerged as an initiative for eco-friendly and sustainable IT. The
+industries worldwide need to review their environmental credentials to address the
+issue of global warming and climate change.
+
+Govind Mishra and Venkat Ramanan, 2014 [6] the main focus is on the Green
+computing is about making computers in an environmentally friendly way, from
+start to finish. Carbon dioxide and other emissions from computers are hurting the
+environment, so it's important to reduce them. Researchers are finding ways to
+make computers that don't harm the environment, like using non-toxic materials
+and making them energy efficient. This is important because energy costs are
+going up and we need to reduce greenhouse gas emissions. A study predicts that
+the internet industry could produce a lot of greenhouse gases, but we can use
+smart technology to reduce them. It's really important to take care of the
+environment, and we can do that by making computers in a better way.
+
+
+
+
+Cengiz Taplamacioglu, 2015 [4] the author states that Accurate electricity
+consumption forecasting is crucial for energy planning in developing countries.
+Support vector machines (SVMs) and least squares support vector machines (LS-
+SVMs) are being used for energy consumption forecasting. This study uses LS-
+SVM to predict Turkey's electricity energy consumption, with traditional regression
+analysis and artificial neural networks (ANNs) also considered. Historical data from
+1970 to 2009, including gross electricity generation, installed capacity, total
+subscribership, and population, are used as independent variables. Forecasting
+results are compared using diverse performance criteria, with ROC analysis used
+to determine the specificity and sensitivity of empirical results. The study concludes
+that the proposed LS-SVM model is an accurate and quick prediction method for
+electricity consumption forecasting.

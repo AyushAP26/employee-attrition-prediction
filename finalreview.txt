@@ -1,0 +1,356 @@
+Peeranart Kiddee et al., 2013[10]. They summarize that e-waste is one of the
+fastest-growing pollution problems worldwide due to its toxic substances and potential
+environmental and human health impacts. Management strategies include eco-design
+devices, properly collect and recycle material, dispose of e-waste by suitable
+techniques, forbid the transfer of used electronic devices to developing countries, and
+raise awareness of the impact. E-waste is a growing problem due to consumer
+technology changing and rapid obsolescence, resulting in massive amounts of ewaste. It consists of many different materials, some of which contain toxic substances that can contaminate the environment. E-waste is a large variety of materials that
+contain toxic substances that can contaminate the environment and threaten human
+health. There is inadequate legislation worldwide for effective management of such
+waste, leading to inappropriate management strategies in both developed and
+developing countries. E-waste disposal methods include landfill and incineration, both
+of which pose considerable contamination risks. Management of e-waste by recycling
+and by disposal to landfills has been shown to pose significant risks to the
+environment.
+
+A. Sivasankari et al., 2015[2]. Author discusses the concept of green computing,
+which is an effective approach to protect the environment from hazardous materials
+and their impacts that arise from computers and electronic devices. The paragraph
+highlights the importance of green computing as a study of environmental science that
+emphasizes the manufacturing, usage, disposal, and recycling of electronic devices.
+Then describes a research paper that focuses on the need for green computing and
+steps that can be taken by the common man to promote it. The paper emphasizes that
+computers have become a basic necessity in today's world, and no individual or
+organization can function without them. However, the manufacturing and disposal of
+these devices can have harmful impacts on the environment. Overall, he presents a
+clear and concise overview of the concept of green computing, its importance, and the
+steps that can be taken to promote it. It highlights the significance of adopting a more
+sustainable approach to the manufacturing and disposal of electronic devices, which
+is essential for protecting the environment and ensuring a sustainable future. The
+paragraph could benefit from providing more specific examples of the harmful impacts
+of electronic devices on the environment and how green computing can help mitigate
+these impacts.
+
+Krati Banal et al., 2015[7]. The author mentions the increasing levels of
+greenhouse gases in our environment and how the use of computers and electronic
+gadgets by consumers is contributing to this issue. It emphasizes the need for
+awareness about the harmful impacts of these technologies on the environment and
+introduces the concept of green computing as a solution to this problem. The main
+objective of green computing is to minimize the negative effects caused by the use of
+technology and promote environmental sustainability while also driving business
+growth. The paragraph also mentions the various initiatives taken and research issues
+that need to be addressed to make green computing a success. It highlights the
+importance of awareness and education about green computing among consumers
+and the challenges that need to be overcome to achieve this goal. Overall, the author
+provides an informative and thought-provoking introduction to the concept of green
+computing and its significance in promoting a healthier and sustainable environment.
+It prompts readers to consider their own use of technology and the impact it has on
+the environment, and encourages them to take action to promote eco-friendly
+computing practices.
+
+Santosh Kumar, 2015[12]. Author says the importance of green computing,
+which refers to the use of energy-efficient and eco-friendly computing resources. It
+sheds light on the fact that environmental organizations and businesses from various
+industries are focusing on this aspect to reduce their carbon footprint. The paragraph
+also indicates that the computer industry has recognized the significance of going
+green and has initiated various green initiatives to cut down costs and enhance their
+public image. The author also discusses some issues that have been raised
+concerning these initiatives. It presents a study as an example to explore the future of
+green computing. The paragraph, overall, is informative and provides an excellent
+introduction to the concept of green computing, its significance, and its adoption by
+the computer industry. However, it lacks specific details about the initiatives and issues
+raised, which could be useful for readers looking for more comprehensive information.
+Nonetheless, the paragraph is well-written, and the topic is crucial for the sustainable
+development of our planet.
+
+Veenaa Deeve et al., 2015[15]. Author highlights the recent and significant
+research field of green computing, which focuses on finding ways to use energy
+efficiently. The researchers primarily concentrate on two aspects of green computing:
+energy efficiency and power consumption and making green software to thrive the
+industry and create innovative products. However, the transition from traditional
+computing to green computing poses several challenges. Despite these challenges,
+successful implementation of green computing can significantly contribute to
+environmental development and safety. The paragraph further mentions that top
+companies are increasingly taking the migration towards green computing seriously.
+Author provides an excellent overview of green computing, which is a crucial aspect
+of sustainable development in today's world. The paragraph highlights the importance
+of energy efficiency and power consumption in the computing industry and how the
+shift towards green computing can help address these issues. It also mentions the
+importance of creating green software to promote innovative products. However, the
+paragraph could have provided more details about the challenges faced during the
+transition and how companies are tackling them. Additionally, the paragraph could
+have mentioned some specific examples of successful implementation of green
+computing by companies to give readers a better idea of its potential benefits.
+Nonetheless, the paragraph provides a concise and informative overview of green
+computing and its significance in the computing industry.
+
+Aditya Vijayvargiya and Mr. Kapil Sahu, 2016[1]. E-waste is an inevitable
+by-product of a technological revolution, with 5-7 million tons of electronics becoming
+obsolete every year. It accounts for 1-4% of the municipal solid waste stream. E-waste
+is discarded electronics destined for reuse, resale, salvage, recycling or disposal,
+which can lead to adverse health effects and environmental pollution. Recycling and
+disposal of e-waste involves significant risk for workers and communities in developing
+countries. Technical solutions need to be implemented before a technical solution can
+be applied. E-waste is a potential security threat, exposing sensitive information such
+as credit card numbers, private financial data, account information, and records of
+online transactions. E-waste is discarded electronics destined for reuse, resale,
+salvage, recycling or disposal, which can lead to adverse health effects and
+environmental pollution. E-waste is processed by melting circuit boards, burning cable
+sheathing, and open pit acid leaching, but the recycling efficiency is low. Reform is
+needed to provide a more environmentally friendly and socially conscious alternative.
+
+Navjot Kaur and Gagandeep Singh, 2016[8]. The author says that green
+computing is a global effort to minimize its impact on the environment, and this paper
+provides a review of the literature and preventive measures to save the atmosphere.
+Green computing is a branch of environmental science that enables the responsible
+use of computer resources, servers and its associated subsystems. It is an ecofriendly information technology and communication technique that can reduce th
+harmful effects of human activity on the atmosphere. In today's world, there is a
+significant increase in the complexity and integration of systems which causes an
+increase in power consumption of the system. To save the environment, it is important
+to design power efficient circuits and convey the energy losses to the common man.
+Another landmark in green computing history is the adoption of RoHS that is
+Restriction of hazardous substance and electrical and electronic equipment directive.
+Government organizations provide power and energy management programs to
+protect the environment and promote green computing. This review provides an
+overview on importance of green computing. Green computing has gain lot of
+importance due to rise in power consumption and its impact on environment. Going
+green is very beneficial as it helps various industries to manage their E-waste in an
+efficient way so that the surrounding may not be affected. This paper suggested some
+beneficial tips that we should follow from today or even from now for greener tomorrow.
+
+Richa Pandey et al., 2017[11]. They summarize that green computing is the
+study of designing and decomposing computers in a way that does not harm the
+environment. It aims to reduce the use of hazardous materials, maximize energy
+efficiency, and reduce factory waste. Green computing is a trend that can help save
+the earth by reducing the use of paper and reducing the cost and scarcity of energy.
+Green technology aims to reduce the environmental impact of industrial processes by
+testing and applying alternative non-hazardous materials. Cloud computing is the
+latest trend in the emerging field of green computing. It does away with hardware
+servers and uses virtual servers. It can be used for various computing techniques such
+as energy saving by using power management and surge protectors. It can also be
+used in other areas such as saving paper by sending email and printing content in
+smaller fonts. Challenges in green computing include equipment power density,
+increasing energy requirements, control on increasing requirements of heat removing
+equipment, equipment life cycle management, and disposal of electronic wastes.
+
+Ms. Simmi Chawla and Mr. Tarun Dalal, 2017[13]. In their research work
+they discuss that green computing is the study and practice of efficient and eco-friendly
+computing resources development. It is not only the responsibility of companies to
+make eco-friendly components, but also of people. Awareness about Green IT &
+Energy Star program can play a crucial role in adoption of Green Computing.
+According to a report, e-wastage system will be the most growing sector in IT in 2020,
+so technologies are asking for improvement and new innovations such as recycling of
+plastics, metals, mixed metals and plastics, and toxic acids. Recycling of outdated
+computers and software is a big challenge. Recycling is a key factor in Green IT, as it
+is a convenient and environmentally responsible way to dispose of used or unwanted
+electronic equipment. However, earlier computers have toxic materials and
+components which can emit harmful emissions. Evolution of computer technology is
+in progress, so old and unused computers become e-wastage.
+
+B.M. Gupta et al., 2018[3]. The main focus is on electronic waste, commonly
+referred to as e-waste, is one of the fastest growing segments in the municipal solid
+waste stream. Rapid product replacement, especially for information and
+communication technology (ICT) products and consumer equipment, is fuelling the
+increase. According to the UN, more than 33% increase in electronic waste is
+expected in the coming four years. Major regions across the globe generating e-waste
+are the US, Europe and Asia Pacific. E-waste has been linked to a variety of health
+problems, including cancer, neurological and respiratory disorders, and birth defects.
+One of the objectives of this paper is to study and analyse global research output by
+broad subject areas and the dynamics of research growth and decline. This study
+provides a quantitative and qualitative description of e-waste research over a 10-year
+period from 2007 to 2016.
+
+Hitesh Monga, 2018[5]. The author says that green computing is the
+environmentally sustainable use of computers and related resources to reduce the use
+of risky materials, maximize energy efficiency, and promote the recyclability of outdated products and factory waste. It reduces energy usage, reduces carbon dioxide emissions, and protects resources. It also includes changing government policy to
+boost recycling and lowering energy use. Green computing is essential to protect the
+environment, as computer penetration is increasing globally and every step consumes
+energy. All stake holders must work together to create a healthier and greener
+environment for future generations. Green computing aims to reduce hazardous
+materials, maximize energy efficiency, and promote recyclability or biodegradability.
+This study examines the current trends in green computing, its implications, and the
+challenges for implementing it.
+
+Vanthana. N, 2018[14]. Author says that Green computing is the process of
+designing, manufacturing, using and disposing of computers, server and associated
+subsystems efficiently with minimal impact on the environment. It is becoming
+increasingly important due to growing computing needs, energy cost and global
+warming. Computing is both part of the problem and part of the solution in terms of the
+environmental debate, as it can enable individuals and businesses to adopt greener
+lifestyles and workstyles. Through more environmentally aware usage, such as more
+effective power management and shut-down during periods of inactivity, and adopting
+current lower power technologies, computers can be made significantly more energy
+efficient. However, it is not a good thing that most PCs have typically entered a landfill
+after only a few years in service, but this reality does at least mean that a solution can
+be found. The IT industry is putting efforts in all sectors to achieve Green Computing,
+such as equipment recycling, reduction of paper usage, virtualization, cloud
+computing, power management, and green manufacturing. Government regulations
+are pushing vendors to act green, behave green, do green, go green, think green, use
+green, and reduce energy consumptions.
+
+Dr. Neha Garg and Deepak Kumar Adhana, 2019[9]. The present paper
+highlights the scenario of e-waste in India and other parts of the globe, and compares
+it with other countries. It reveals that computers and mobile telephones are the
+principal generators, with Mumbai generating an estimated 1, 20,000 tonnes annually.
+Delhi and Bengaluru ranked second and third, respectively. State-wise Maharashtra
+is ranked first in generation of electronic waste, followed by Tamil Nadu and Uttar
+Pradesh. Approximately 70% of heavy metals found in landfills are accounted for by
+E-waste. The paper also offers suggestions to deal with the Challenges and problems
+of electronic waste. E-waste contains toxic substances that can lead to damage to
+major body systems, particularly in the informal sector. Major Challenges of waste
+management in India is also been described in the paper. The main thing we need to
+Do a thorough search and research to find a registered agency to dispose of e-waste,
+explore retail options, and encourage neighbours to join you. Resolve to be part of the
+solution and help make the earth a better place to live.
+
+Jaskirat Kaur, 2021[6]. The author emphasizes the importance of computers in
+today's world while also highlighting the harmful impact of their use on the
+environment. The paper provides some steps that a common man can take towards
+Green Computing and also highlights recent implementations of this concept. The
+author highlights the benefits of Green Computing, such as the reduction in the use of
+hazardous materials, maximization of energy efficiency during the product's lifetime,
+and promotion of recyclability or biodegradability of defunct products and factory
+waste. The paper discusses the need for Green Computing and some practices to be
+followed by individuals to contribute to this cause. Overall, the given abstract provides
+a concise and informative overview of Green Computing, its benefits, and the steps
+that can be taken to reduce the harmful impact of computer-related activities on the
+environment. The author emphasizes the need for individuals and organizations to be
+aware of the impact of their actions on the environment and take steps to minimize
+this impact. The paper is well-organized and presents the information in a clear and
+concise manner.
+
+Dr. Devika Rani Dhivya K et al., 2023[4]. The authors emphasize the need
+for environmentally friendly computing solutions to protect society from electronic
+risks. The IT industry is shown to be working towards achieving green computing in all
+areas, with measures such as reusing equipment, using less paper, virtualization,
+cloud computing, and power management. The paragraph provides a comprehensive
+introduction to the topic, making it a useful starting point for further research. The
+paragraph discusses the growing importance of "Green Computing," which is aimed
+at developing energy-saving methods for computer systems, both at the household
+and enterprise level. The paper provides a concise overview of the current state of
+green computing research, highlighting the challenges faced by the industry and
+potential future directions. The study adopts a qualitative approach, using individual
+interviews and observations to gather data. However, the paragraph could benefit from
+more specific details about the challenges faced by the industry and how they are
+being addressed. Also, the author could have elaborated more on the potential future
+directions of green computing and how they could be implemented. Nevertheless, the
+paragraph presents a clear and concise introduction to the topic of green computing
+and its importance in protecting the environment.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. Aditya Vijayvargiya and Mr. Kapil Sahu (2016), “E-Waste Technology”, 
+International Journal of Engineering Research & Technology (IJERT), ISSN: 
+2278-0181, Vol. 4, Issue No. 32, Pp. 1-2. https://www.ijert.org/a-review-paperon-e-waste-technology
+2. Sivasankari, S. Poovarasi and R. Rasathi (2015), “GREEN COMPUTINGNEED AND IMPLEMENTATION”, International Journal of Science Technology 
+and Management, ISSN: 2394-1537, Vol. 4, Issue No. 10, Pp. 91-96.
+http://www.ijstm.com/images/short_pdf/1446050278_P91-96.pdf
+3. B.M. Gupta, S.M. Dhawan, Ashok Kumar and P. Visakhi (2018), “E-Waste 
+Research: A Scientometric Assessment of Global Publications Output during 
+2007-16”, International Journal of Information Dissemination and Technology, 
+ISSN (P): 2229-5984, ISSN (E): 2249-5576, Vol. 8, Issue No. 1, Pp. 31-36.
+https://www.proquest.com/openview/44fe7b15dfc6780e52cd46b97f72d5ce/1?
+pq-origsite=gscholar&cbl=1036413
+4. Dr. Devika Rani Dhivya K, Aiswaryaa A.V and Shri Ram B (2023), “Green 
+Computing Waste is a Terrible thing: Recycle”, International Journal of 
+Scientific Development and Research (IJSDR), ISSN: 2455-2631, Vol. 8, Issue 
+No. 2, Pp. 48-51. https://www.ijsdr.org/papers/IJSDR2302009.pdf
+5. Hitesh Monga (2018), “GREEN COMPUTING: APPROACHES AND ITS 
+IMPLEMENTATIONS”, IJRAR- International Journal of Research and 
+Analytical Reviews, ISSN (E): 2348 –1269, ISSN (P): 2349-5138, Vol. 5, Issue 
+No. 3, Pp. 566-569. http://ijrar.com/upload_issue/ijrar_issue_1698.pdf
+6. Jaskirat Kaur (2021), “GREEN COMPUTING – A LATE START”, International 
+Research Journal of Engineering and Technology (IRJET), ISSN (E): 2395-
+0056, ISSN (P): 2395-0072, Vol. 08, Issue No. 05, Pp. 2374-2377.
+https://www.irjet.net/archives/V8/i5/IRJET-V8I5431.pdf
+7. Krati Banal, Pratik J. Kurle and Priyanka Chawla (2015), “Green Computing an 
+approach towards a healthier environment”, International Journal of Computer 
+& Organization Trends, ISSN: 2249-2593, Vol. 5, Issue No. 6, Pp. 9-13.
+https://ijcotjournal.org/asserts/year/2015/volume-27/number-1/IJCOTV27P302.pdf
+8. Navjot Kaur and Gagandeep Singh (2016), “Review on Green Computing: The 
+next movement in computing”, International Journal of Advanced Research in 
+Computer and Communication Engineering, ISSN (O): 2278-1021, ISSN (P): 
+2319 5940, Pp. 1095-1097. https://www.ijarcce.com/upload/2016/april16/IJARCCE%20267.pdf
+9. Dr. Neha Garg and Deepak Kumar Adhana (2019), “E-WASTE MANAGEMENT 
+IN INDIA: A STUDY OF CURRENT SCENARIO”, International Journal of 
+Management, Technology and Engineering, ISSN: 2249-7455, Vol. 9, Issue 
+No.1,Pp.2791-2803.
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3356877
+10. Peeranart Kiddee, Ravi Naidu and Ming H. Wong (2013), “Electronic waste 
+management approaches: An overview”, International Journal of Integrated 
+Waste Management, Science and Technology, ISSN 0956-053X, Vol. 33, Issue 
+No.5,Pp.1237-1250.
+https://www.nqr.gov.in/sites/default/files/File%202_waste%20mgt.pdf
+
+11. Richa Pandey, Kavita Rawat, Komal Kirola and Lalit Mohan (2017), “THE 
+RISING ERA OF GREEN COMPUTING”, International Journal of Computer 
+Science and Mobile Computing, ISSN: 2320–088X, Vol. 6, Issue No. 2, Pp. 
+127-130. https://www.ijcsmc.com/docs/papers/February2017/V6I2201729.pdf
+12. Santosh Kumar (2017), “Green Computing”, IJSR - International Journal of
+Scientific Research, ISSN: 2277 – 8179, Vol. 4, Issue No. 2, Pp. 67-69.
+https://www.worldwidejournals.com/international-journal-of-scientific-research-
+(IJSR)/article/green-computing/NDgxMQ==/?is=1
+13. Ms. Simmi Chawla and Mr. Tarun Dalal, “Challenges and proposed solutions 
+in order to achieve green computing”, International Research Journal of 
+Engineering and Technology (IRJET), ISSN (E): 2395 -0056, ISSN (P): 2395-
+0072,Vol.04,IssueNo.04,Pp.3657-3663.
+https://www.irjet.net/archives/V4/i4/IRJET-V4I4883.pdf
+14. Vanthana. N (2018), “Green Computing”, International Journal of Engineering 
+Research & Technology (IJERT), ISSN: 2278-0181, Vol. 06, Issue No. 07, Pp. 
+1-5. https://www.ijert.org/green-computing
+15.Veenaa Deeve, N.V., Vijesh Joe and Namratha (2015), “RESEARCH ARTICLE 
+STUDY ON BENEFITS OF GREEN COMPUTING”, International Journal of 
+Current Research, ISSN: 0975-833X, Vol. 07 Issue No. 04, Pp. 14443-1
+
+
+
+
+
+
+
+
+
+
+
+[8] J Patle, Raza, Khalid, V. K. Arya, Sandeep(2012), “A Review on Green
+Computing for Eco-Friendly and Sustainable IT”, Vol. 1, number 1, Pp. 3-16.
+
+
+[6] Govind Mishra and Venkat Ramanan(2014), “Journal of Energy Research and
+Environmental Technology”, ISSN: 2394-1561, Pp. 4-36.
+'
+
+[2] Biswajit Saha(2014), “Green Computing”, vol. 14, number 2, Pp. 46-50.
+
+[3]Fazil Kaytez, Cengiz Taplamacioglu, Ertugrul Cam, and Firat Hardalac(2015),
+“Forecasting electricity consumption: A comparison of regression analysis, neural
+networks and least squares support vector machines”, vol. 67, Pp. 431-438.
+
+
+[12] Pijush Kanti Dutta Pramanik, Saurabh Pal and Prasenjit Choudhury(2019),
+“Green and Sustainable High-Performance Computing with Smartphone Crowd
+Computing”, Vol. 20, number 2.
